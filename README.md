@@ -97,6 +97,6 @@ Include the following for **each scene**:
 
 ## Deadline
 
-**15:00 (3:00 PM)**
+**25/7/2026 15:00 (3:00 PM)**
 
 Late submissions may not be accepted.
