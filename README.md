@@ -85,12 +85,16 @@ Include the following for **each scene**:
 
 ### Exam_Scene_2
 - Before
+  - Batch screenshot
 - After
+  - Batch screenshot
 - Optimization summary
 
 ### Exam_Scene_3
 - Before
+  - Batch screenshot
 - After
+  - Batch screenshot
 - Optimization summary
 
 ---
